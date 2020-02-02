@@ -14,6 +14,5 @@ This python script scrapes the information such as name, version, description...
 <li>Maintainers</li>
 <li>HomePage Link</li>
 </ul>
-<br />
 <hr />
 Feel free to contribute :) 
