@@ -1,9 +1,10 @@
 # PyPackage-Scraper
-Python scraper that scrapes list and detail about python packages, filters duplciate packages, html tags and writes them to a csv file.
+Python scraper that scrapes list and detail about python packages from pypi and also filters duplicate packages, html tags and writes them to a csv file.
 
 This python script scrapes the information such as name, version, description....etc python packages.
 
-<ul><h3>Information Scraped:</h3>
+<ul>
+<h3>Information Scraped:</h3>
 <li>Name</li>
 <li>Version</li>
 <li>Description</li>
